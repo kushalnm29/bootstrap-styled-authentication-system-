@@ -97,22 +97,3 @@ index.html (Login)
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots to the `screenshots/` folder)*
-
----
-
-## ✅ Submission Checklist
-
-- [x] Bootstrap integrated in all 5 pages
-- [x] Proper use of cards, forms, buttons
-- [x] `styles.css` created and linked
-- [x] Responsive design tested
-- [x] README.md included
-- [x] Clean, indented code
-- [x] All redirections working
-
----
-
-*Built for CampusPe Full Stack Development Assignment*
